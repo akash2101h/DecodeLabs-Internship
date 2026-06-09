@@ -20,7 +20,7 @@ The server is "stateless" meaning it doesn't remember anything between requests,
 - Uvicorn
 
 ## How to run this project
-It runs locally on your computer meaning only you can access it right now.
+It runs locally on your computer.
 When you ran:
 ```
 uvicorn main:app --reload
