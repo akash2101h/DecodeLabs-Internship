@@ -21,7 +21,7 @@ The server is "stateless" meaning it doesn't remember anything between requests,
 
 ## How to run this project
 It runs locally on your computer.
-When you ran:
+When you run:
 ```
 uvicorn main:app --reload
 ```
