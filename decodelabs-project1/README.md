@@ -8,6 +8,7 @@ I built a simple REST API using FastAPI and Python.
 I built a REST API which is basically a server that listens for requests and responds with data.
 
 Specifically:
+
 Someone visits /products → the server responds with a list of products
 
 Someone visits /products/1 → the server responds with only that one product
